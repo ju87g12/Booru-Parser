@@ -1,0 +1,10 @@
+C:\Users\yukifag\source\repos\Booru Pareser\Booru Pareser\bin\Debug\Booru Pareser.exe.config
+C:\Users\yukifag\source\repos\Booru Pareser\Booru Pareser\bin\Debug\Booru Pareser.exe
+C:\Users\yukifag\source\repos\Booru Pareser\Booru Pareser\bin\Debug\Booru Pareser.pdb
+C:\Users\yukifag\source\repos\Booru Pareser\Booru Pareser\obj\Debug\Booru Pareser.csprojAssemblyReference.cache
+C:\Users\yukifag\source\repos\Booru Pareser\Booru Pareser\obj\Debug\Booru_Pareser.Form1.resources
+C:\Users\yukifag\source\repos\Booru Pareser\Booru Pareser\obj\Debug\Booru_Pareser.Properties.Resources.resources
+C:\Users\yukifag\source\repos\Booru Pareser\Booru Pareser\obj\Debug\Booru Pareser.csproj.GenerateResource.cache
+C:\Users\yukifag\source\repos\Booru Pareser\Booru Pareser\obj\Debug\Booru Pareser.csproj.CoreCompileInputs.cache
+C:\Users\yukifag\source\repos\Booru Pareser\Booru Pareser\obj\Debug\Booru Pareser.exe
+C:\Users\yukifag\source\repos\Booru Pareser\Booru Pareser\obj\Debug\Booru Pareser.pdb
